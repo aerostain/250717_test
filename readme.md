@@ -5,7 +5,6 @@
  
  Vamos a por todo
  
- [x] tmp3
+ * [x] tmp3
 
- s
- [ ] tmp4
+ * [ ] tmp4
